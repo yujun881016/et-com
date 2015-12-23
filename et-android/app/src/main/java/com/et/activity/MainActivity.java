@@ -5,8 +5,11 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.et.activity.common.util.SystemUtils;
-import com.et.activity.common.util.T;
+import com.et.common.base.BaseActivity;
+import com.et.common.business.BusinessFactory;
+import com.et.common.business.BusinessInterface;
+import com.et.common.util.SystemUtils;
+import com.et.common.util.T;
 
 import net.simonvt.menudrawer.MenuDrawer;
 
@@ -23,11 +26,9 @@ public class MainActivity extends BaseActivity implements View.OnClickListener{
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
         initMenuDrawer();
         mMenuDrawer.setContentView(R.layout.main_activity);
-        initView();
-        initListener();
+        super.onCreate(savedInstanceState);
     }
 
     @Override
@@ -46,6 +47,12 @@ public class MainActivity extends BaseActivity implements View.OnClickListener{
     protected void initListener() {
         left_img.setOnClickListener(this);
         right_img.setOnClickListener(this);
+    }
+
+    private void initData(){
+//        businessInterface = BusinessFactory.getInstance().getBusinessInstance(Class);
+//        businessInterface.setParameters(object);
+//        businessInterface.doBusiness();
     }
 
     private void initMenuDrawer() {
