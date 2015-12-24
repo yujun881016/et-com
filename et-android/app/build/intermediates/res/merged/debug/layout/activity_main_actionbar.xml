@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <RelativeLayout
+        android:id="@+id/title_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_bg_0" >
+
+        <ImageView
+            android:id="@+id/left_img"
+            android:layout_width="48dip"
+            android:layout_height="48dip"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="8dip"
+            android:minHeight="@dimen/topbar_icon_size"
+            android:minWidth="@dimen/topbar_icon_size"
+            android:padding="12dip"
+            android:src="@drawable/topbar_icon_side_selector" />
+            android:scaleType="centerCrop"
+
+        <ImageView
+            android:id="@+id/right_img"
+            android:layout_width="48dip"
+            android:layout_height="48dip"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:layout_marginRight="8dip"
+            android:minHeight="@dimen/topbar_icon_size"
+            android:minWidth="@dimen/topbar_icon_size"
+            android:padding="12dip"
+            android:src="@mipmap/news" />
+            android:scaleType="centerCrop"
+
+
+        <TextView
+            android:id="@+id/content_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="首页"
+            android:textColor="@android:color/white"
+            android:textSize="17sp"
+            />
+
+
+    </RelativeLayout>
+
+</merge><!-- From: file:/Users/macx82/Documents/et-com/et-android/app/src/main/res/layout/activity_main_actionbar.xml -->

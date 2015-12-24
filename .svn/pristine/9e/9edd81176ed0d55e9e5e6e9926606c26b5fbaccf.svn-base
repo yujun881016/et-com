@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.android.percent.support.PercentRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include
+        layout="@layout/activity_main_actionbar"
+        app:layout_heightPercent="10%h"
+        />
+
+    <TextView
+        android:id="@+id/tv_1"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:text="@string/app_name"
+        android:gravity="center"
+        app:layout_marginTopPercent="10%h"
+        app:layout_heightPercent="14%w"
+        app:layout_widthPercent="44%w" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="你的身份您哦舒服呢"
+        android:layout_below="@+id/tv_1"
+        />
+
+    <com.zhy.android.percent.support.PercentRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_alignParentBottom="true"
+        android:gravity="center_vertical"
+        app:layout_heightPercent="10%h">
+
+        <TextView
+            android:id="@+id/tv_bar_home"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="首页"
+            app:layout_marginLeftPercent="10%w"
+            android:drawableTop="@drawable/home_selector"
+            android:textColor="@color/selector_action_bar_color"
+            />
+        <TextView
+            android:id="@+id/tv_bar_user"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_toRightOf="@+id/tv_bar_home"
+            android:text="用户"
+            app:layout_marginLeftPercent="10%w"
+            android:drawableTop="@drawable/user_selector"
+            android:textColor="@color/selector_action_bar_color"
+            />
+    </com.zhy.android.percent.support.PercentRelativeLayout>
+</com.zhy.android.percent.support.PercentRelativeLayout>

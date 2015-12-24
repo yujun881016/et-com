@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="@color/color_bg_1" android:state_selected="true"></item>
+    <item android:color="@color/color_bg_1" android:state_pressed="true"></item>
+    <item android:color="@color/color_bg_2"></item>
+</selector><!-- From: file:/Users/macx82/Documents/et-com/et-android/app/src/main/res/color/selector_action_bar_color.xml -->

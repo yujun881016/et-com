@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="topbar_icon_size">22.0dip</dimen>
+    <dimen name="topbar_icon_height">44.0dip</dimen>
+
+</resources>

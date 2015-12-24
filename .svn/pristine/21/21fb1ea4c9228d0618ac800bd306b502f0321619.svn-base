@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/macx82/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/2.0.0-beta2/880d9e0997b2d1bfc98e0d121ced33ee5d04aac4/retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="/Users/macx82/Documents/et-com/et-android/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0-beta2-909b19f8408348bcf588bf3727c51a2d55fa496f.jar" />
+    </item>
+    <item
+        jar="/Users/macx82/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/Users/macx82/Documents/et-com/et-android/app/build/intermediates/pre-dexed/debug/glide-3.5.2-a1306a189555465f5857038c183038f0344cb4e5.jar" />
+    </item>
+    <item
+        jar="/Users/macx82/Documents/et-com/et-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/macx82/Documents/et-com/et-android/app/build/intermediates/pre-dexed/debug/classes-3e06e7a59a86d1af8f70b21c423d1107ca7a4bc7.jar" />
+    </item>
+    <item
+        jar="/Users/macx82/Documents/et-com/et-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/macx82/Documents/et-com/et-android/app/build/intermediates/pre-dexed/debug/classes-7be0c3a7ee62720f71bb6ffd546640554c007564.jar" />
+    </item>
+    <item
+        jar="/Users/macx82/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/Users/macx82/Documents/et-com/et-android/app/build/intermediates/pre-dexed/debug/eventbus-2.4.0-1a95cc8a662aa0782aeaeab99314f0d4e3c6fcb9.jar" />
+    </item>
+    <item
+        jar="/Users/macx82/Documents/et-com/et-android/app/build/intermediates/exploded-aar/com.zhy/percent-support-extends/1.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ff8e178d6ef33c8673f430651500068642f833">
+        <dex dex="/Users/macx82/Documents/et-com/et-android/app/build/intermediates/pre-dexed/debug/classes-65e39db330915f0e601c48098e646a992dba37f3.jar" />
+    </item>
+    <item
+        jar="/Users/macx82/.gradle/caches/modules-2/files-2.1/io.realm/realm-android/0.86.1/36a845e6311c7cac5308562cf61e9ffcebbf532b/realm-android-0.86.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="36a845e6311c7cac5308562cf61e9ffcebbf532b">
+        <dex dex="/Users/macx82/Documents/et-com/et-android/app/build/intermediates/pre-dexed/debug/realm-android-0.86.1-8e0ed2b5ea0599af629e4660ff95b43eb1e998d1.jar" />
+    </item>
+    <item
+        jar="/Users/macx82/Documents/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/macx82/Documents/et-com/et-android/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-78ceac75da4997ffe2b017e61cd49a35dffc89af.jar" />
+    </item>
+    <item
+        jar="/Users/macx82/Documents/et-com/et-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/macx82/Documents/et-com/et-android/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-8e4a2c03ffcfba24899125b0bad09ee1e6f56ade.jar" />
+    </item>
+    <item
+        jar="/Users/macx82/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/macx82/Documents/et-com/et-android/app/build/intermediates/pre-dexed/debug/gson-2.3.1-b7cc84011e529e9b08fbf0b5655f99976012e38b.jar" />
+    </item>
+    <item
+        jar="/Users/macx82/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/macx82/Documents/et-com/et-android/app/build/intermediates/pre-dexed/debug/okio-1.6.0-6d8dbc0183889b1ba247295aaf5347c72d9d890d.jar" />
+    </item>
+    <item
+        jar="/Users/macx82/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/converter-gson/2.0.0-beta2/392c3d09e0f5e7087544093cc0cb23bb9c7af5fa/converter-gson-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="/Users/macx82/Documents/et-com/et-android/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0-beta2-df604c4fade5c12216c28aa1c44704f63d4fda10.jar" />
+    </item>
+    <item
+        jar="/Users/macx82/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/macx82/Documents/et-com/et-android/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-13bcf805d2aabbf4258c783451fa04ab73dd0e60.jar" />
+    </item>
+
+</items>
